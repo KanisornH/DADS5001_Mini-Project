@@ -19,27 +19,33 @@ Total:
   - Eating Score By Location : 554 Rows
   
  Column:
+ 
    Residental Project Data source:
-    - row_number
-    - propertytype_name_en
-    - price_min
-    - subdistrict_name_th
-    - district_name_th
-    - province_name_th
-    - date_updated
+   
+   - row_number
+   - propertytype_name_en
+   - price_min
+   - subdistrict_name_th
+   - district_name_th
+   - province_name_th
+   - date_updated
+  
    Living Score By Location source:
-    - subdistrict_name_th
-    - district_name_th
-    - province_name_th
-    - walk_total
-    - access_total
-    - drive_total
+   
+   - subdistrict_name_th
+   - district_name_th
+   - province_name_th
+   - walk_total
+   - access_total
+   - drive_total
+   
    Eating Score By Location source:
-    - subdistrict_name_th
-    - district_name_th
-    - province_name_th
-    - eating_daytime
-    - eating_nighttime
+   
+   - subdistrict_name_th
+   - district_name_th
+   - province_name_th
+   - eating_daytime
+   - eating_nighttime
   
  # Analysis Question
  1. อ้างอิงจาก Living score และ Eating score ของแต่ละเขต พื้นที่ใดมีราคาเฉลี่ยต่อ 1 คะแนนดีที่สุด
