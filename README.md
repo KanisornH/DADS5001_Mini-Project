@@ -9,9 +9,9 @@
 
 # Dataset Information
 
-Residental Project Data source: https://gobestimate.com/data-detail/Residental-Project-Data
-Living Score By Location source: https://gobestimate.com/data-detail/Living-Score-By-Location
-Eating Score By Location source: https://gobestimate.com/data-detail/Eating-Score-By-Location
+- Residental Project Data source: https://gobestimate.com/data-detail/Residental-Project-Data
+- Living Score By Location source: https://gobestimate.com/data-detail/Living-Score-By-Location
+- Eating Score By Location source: https://gobestimate.com/data-detail/Eating-Score-By-Location
 
 Total: 
   - Residental Project Data : 23,604 Rows
