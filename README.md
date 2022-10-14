@@ -1,10 +1,11 @@
 # DADS5001_Mini-Project
-Average price per living &amp; eating score for each upcountry of Thailand
+- Average price per living &amp; eating score for each upcountry of Thailand
+- Average price of property type ( บ้านเดี่ยว, บ้านแฝด, ทาวน์โฮม, คอนโด ) from 2020 to 2022
 
 # Authur
-Kanisorn Hongthong
-ID: 6420422024
-Subject: DADS5001
+- Kanisorn Hongthong
+- ID: 6420422024
+- Subject: DADS5001
 
 # Dataset Information
 
