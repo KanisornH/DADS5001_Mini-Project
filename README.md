@@ -54,7 +54,7 @@ Total:
     - Ans: อ้างอิงจากราคาเฉลี่ยของอสังหาริมทรัพย์ (บ้านเดี่ยว, บ้านแฝด, ทาวน์โฮม, คอนโด) จากราคา update ในแต่ละปี จะพบว่า บ้านเดี่ยว เป็นอสังหาริมทรัพย์ที่ราคาเฉลี่ยในแต่ละปีไม่ลดลงในทุกๆปี
     
  # Issue
- 1. ชื่อ Subdistrict และ district 1 ชื่อจะซ้ำกันในหลายๆจังหวัด ทำให้ต้องสร้าง Key ที่ใช้ Mapping ขึ้นมาใหม่โดยใช้ (Subdistrict + District + Province)
+ 1. ชื่อ Subdistrict และ district 1 ชื่อจะซ้ำกันในหลายๆจังหวัด ตัวอย่างเช่น "บ้านฉาง" เป็นชื่อ subdistrict ของทั้ง 2 district ทำให้ต้องสร้าง Key ที่ใช้ Mapping ขึ้นมาใหม่โดยใช้ (Subdistrict + District + Province)
  
  ![image](https://user-images.githubusercontent.com/115795313/196194042-ef9b5e07-4a5b-49b1-aaa8-d929fc02c1ff.png)
  
